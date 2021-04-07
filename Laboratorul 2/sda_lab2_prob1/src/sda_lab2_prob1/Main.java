@@ -57,26 +57,26 @@ public class Main {
 		
 		System.out.println("\nIf-if\n");
 		
-		System.out.println("Oras: " + viteza_max_1("ORAS"));
-		System.out.println("Zona Rezidentiala: " + viteza_max_1("Zona Rezidentiala"));
-		System.out.println("Drum express: " + viteza_max_1("Drum Express"));
-		System.out.println("Autostrada: " + viteza_max_1("Autostrada"));
+		System.out.println("Oras: " + viteza_max_1("oras"));
+		System.out.println("Zona Rezidentiala: " + viteza_max_1("zona rezidentiala"));
+		System.out.println("Drum express: " + viteza_max_1("drum express"));
+		System.out.println("Autostrada: " + viteza_max_1("autostrada"));
 		System.out.println("Necunoscut: " + viteza_max_1("necunoscut"));
 		
 		System.out.println("\nIf-else if\n");
 		
-		System.out.println("Oras: " + viteza_max_2("ORAS"));
-		System.out.println("Zona Rezidentiala: " + viteza_max_2("Zona Rezidentiala"));
-		System.out.println("Drum express: " + viteza_max_2("Drum Express"));
-		System.out.println("Autostrada: " + viteza_max_2("Autostrada"));
+		System.out.println("Oras: " + viteza_max_2("oras"));
+		System.out.println("Zona Rezidentiala: " + viteza_max_2("zona rezidentiala"));
+		System.out.println("Drum express: " + viteza_max_2("drum express"));
+		System.out.println("Autostrada: " + viteza_max_2("autostrada"));
 		System.out.println("Necunoscut: " + viteza_max_2("necunoscut"));
 		
 		System.out.println("\nSwitch\n");
 		
-		System.out.println("Oras: " + viteza_max_3("ORAS"));
-		System.out.println("Zona Rezidentiala: " + viteza_max_3("Zona Rezidentiala"));
-		System.out.println("Drum express: " + viteza_max_3("Drum Express"));
-		System.out.println("Autostrada: " + viteza_max_3("Autostrada"));
+		System.out.println("Oras: " + viteza_max_3("oras"));
+		System.out.println("Zona Rezidentiala: " + viteza_max_3("zona rezidentiala"));
+		System.out.println("Drum express: " + viteza_max_3("drum express"));
+		System.out.println("Autostrada: " + viteza_max_3("autostrada"));
 		System.out.println("Necunoscut: " + viteza_max_3("necunoscut"));
 	}
 }
